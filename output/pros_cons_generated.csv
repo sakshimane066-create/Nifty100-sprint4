@@ -1,0 +1,446 @@
+company_id,type,rule_triggered,text,confidence_pct,has_source_entry,sentiment
+ABB,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 5.46x profit over 5 years,95.0,0,0.0
+ABB,pro,P10_STRONG_INTEREST_COVER,Company comfortably services its debt: interest coverage of 141.8x,95.0,0,1.0
+ABB,pro,P03_DEBT_FREE,Company is almost debt free.,91.5,0,1.0
+ABB,pro,P12_CONSISTENT_GROWTH,Company has grown sales in each of the last 5 years,82.8,0,0.0
+ABB,pro,P01_ROE_TRACK_RECORD,Company has a good return on equity (ROE) track record: 3 Years ROE 30.2%,77.8,0,1.0
+ABB,con,R02_SECTOR_WEAKNESS,Below the sector median on 5-year profit growth (sector percentile 29),65.3,0,0.0
+ADANIENSOL,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 4.05x profit over 5 years,95.0,0,0.0
+ADANIENSOL,pro,P04_REVENUE_GROWTH,Company has delivered good sales growth of 17.9% CAGR over last 5 years,66.7,0,1.0
+ADANIENSOL,con,C09_LOW_PAYOUT,Dividend payout has been low at 0.0% of profits over last 3 years,77.5,0,-1.0
+ADANIENSOL,con,C03_LOW_INTEREST_COVER,Company has a low interest coverage ratio of 2.3x,70.0,0,-1.0
+ADANIENSOL,con,C02_HIGH_LEVERAGE,Company has a high debt to equity ratio of 2.9x,68.2,0,1.0
+ADANIENT,pro,P05_PROFIT_GROWTH,Company has delivered good profit growth of 45.8% CAGR over last 5 years,95.0,0,1.0
+ADANIENT,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 4.15x profit over 5 years,95.0,0,0.0
+ADANIENT,pro,P11_MARGIN_EXPANSION,Operating margin has expanded by 5.5 points over the last 3 years,80.2,0,0.0
+ADANIENT,pro,P04_REVENUE_GROWTH,Company has delivered good sales growth of 19.0% CAGR over last 5 years,69.4,0,1.0
+ADANIENT,con,C09_LOW_PAYOUT,Dividend payout has been low at 8.3% of profits over last 3 years,77.5,0,-1.0
+ADANIENT,con,C01_LOW_ROE,Company has a low return on equity of 6.5% over last 3 years,72.4,0,-1.0
+ADANIENT,con,C08_LOW_MARGIN,Company has a low net profit margin of 3.5%,70.8,0,-1.0
+ADANIENT,con,C03_LOW_INTEREST_COVER,Company has a low interest coverage ratio of 2.7x,63.5,0,-1.0
+ADANIGREEN,pro,P04_REVENUE_GROWTH,Company has delivered good sales growth of 35.0% CAGR over last 5 years,95.0,0,1.0
+ADANIGREEN,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 7.64x profit over 5 years,95.0,0,0.0
+ADANIGREEN,pro,P11_MARGIN_EXPANSION,Operating margin has expanded by 7.6 points over the last 3 years,92.9,0,0.0
+ADANIGREEN,pro,P12_CONSISTENT_GROWTH,Company has grown sales in each of the last 5 years,82.8,0,0.0
+ADANIGREEN,con,C02_HIGH_LEVERAGE,Company has a high debt to equity ratio of 6.6x,95.0,0,1.0
+ADANIGREEN,con,C12_OTHER_INCOME_DEPENDENCE,Earnings depend on other income: 76% of pre-tax profit,80.7,0,0.0
+ADANIGREEN,con,C03_LOW_INTEREST_COVER,Company has a low interest coverage ratio of 1.7x,78.0,0,-1.0
+ADANIGREEN,con,C09_LOW_PAYOUT,Dividend payout has been low at 0.0% of profits over last 3 years,77.5,0,-1.0
+ADANIPORTS,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 1.92x profit over 5 years,95.0,0,0.0
+ADANIPORTS,pro,P08_HIGH_MARGIN,Company has a high net profit margin of 30.3%,84.1,0,1.0
+ADANIPORTS,pro,P12_CONSISTENT_GROWTH,Company has grown sales in each of the last 5 years,82.8,0,0.0
+ADANIPORTS,pro,P04_REVENUE_GROWTH,Company has delivered good sales growth of 19.6% CAGR over last 5 years,70.7,0,1.0
+ADANIPORTS,con,R02_SECTOR_WEAKNESS,Below the sector median on 5-year profit growth (sector percentile 44),62.1,0,0.0
+ADANIPOWER,pro,P08_HIGH_MARGIN,Company has a high net profit margin of 41.4%,95.0,0,1.0
+ADANIPOWER,pro,P01_ROE_TRACK_RECORD,Company has a good return on equity (ROE) track record: 3 Years ROE 36.9%,89.6,0,1.0
+ADANIPOWER,pro,P06_FCF_POSITIVE_5Y,Company has generated positive free cash flow in each of the last 5 years,84.5,0,1.0
+ADANIPOWER,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 1.28x profit over 5 years,76.4,0,0.0
+ADANIPOWER,pro,P11_MARGIN_EXPANSION,Operating margin has expanded by 3.1 points over the last 3 years,66.2,0,0.0
+ADANIPOWER,con,C09_LOW_PAYOUT,Dividend payout has been low at 0.0% of profits over last 3 years,77.5,0,-1.0
+ADANIPOWER,con,C12_OTHER_INCOME_DEPENDENCE,Earnings depend on other income: 48% of pre-tax profit,64.4,0,0.0
+AMBUJACEM,pro,P10_STRONG_INTEREST_COVER,Company comfortably services its debt: interest coverage of 28.3x,92.0,0,1.0
+AMBUJACEM,pro,P03_DEBT_FREE,Company is almost debt free.,91.5,0,1.0
+AMBUJACEM,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 1.22x profit over 5 years,73.1,0,0.0
+AMBUJACEM,con,C06_POOR_SALES_GROWTH,The company has delivered a poor sales growth of 4.1% over past five years.,63.1,0,0.333
+APOLLOHOSP,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 2.18x profit over 5 years,95.0,0,0.0
+APOLLOHOSP,pro,P05_PROFIT_GROWTH,Company has delivered good profit growth of 36.1% CAGR over last 5 years,88.2,0,1.0
+APOLLOHOSP,pro,P06_FCF_POSITIVE_5Y,Company has generated positive free cash flow in each of the last 5 years,84.5,0,1.0
+APOLLOHOSP,con,C08_LOW_MARGIN,Company has a low net profit margin of 4.9%,61.0,0,-1.0
+ASIANPAINT,pro,P10_STRONG_INTEREST_COVER,Company comfortably services its debt: interest coverage of 41.0x,95.0,0,1.0
+ASIANPAINT,pro,P06_FCF_POSITIVE_5Y,Company has generated positive free cash flow in each of the last 5 years,84.5,0,1.0
+ASIANPAINT,pro,P12_CONSISTENT_GROWTH,Company has grown sales in each of the last 5 years,82.8,0,0.0
+ASIANPAINT,pro,P09_HEALTHY_PAYOUT,Company has been maintaining a healthy dividend payout of 59.7%,81.0,0,1.0
+ASIANPAINT,pro,P01_ROE_TRACK_RECORD,Company has a good return on equity (ROE) track record: 3 Years ROE 26.1%,70.6,0,1.0
+ASIANPAINT,con,R04_DATA_GAP,No significant weakness identified; monitor valuation,61.0,0,0.0
+ATGL,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 1.41x profit over 5 years,83.7,0,0.0
+ATGL,pro,P04_REVENUE_GROWTH,Company has delivered good sales growth of 21.1% CAGR over last 5 years,74.2,0,1.0
+ATGL,pro,P05_PROFIT_GROWTH,Company has delivered good profit growth of 23.9% CAGR over last 5 years,66.8,0,1.0
+ATGL,pro,P10_STRONG_INTEREST_COVER,Company comfortably services its debt: interest coverage of 10.5x,61.0,0,1.0
+ATGL,con,C09_LOW_PAYOUT,Dividend payout has been low at 4.7% of profits over last 3 years,77.5,0,-1.0
+AXISBANK,pro,P05_PROFIT_GROWTH,Company has delivered good profit growth of 39.7% CAGR over last 5 years,94.4,0,1.0
+AXISBANK,pro,P12_CONSISTENT_GROWTH,Company has grown sales in each of the last 5 years,82.8,0,0.0
+AXISBANK,con,C09_LOW_PAYOUT,Dividend payout has been low at 2.0% of profits over last 3 years,77.5,0,-1.0
+BAJAJ-AUTO,pro,P10_STRONG_INTEREST_COVER,Company comfortably services its debt: interest coverage of 174.4x,95.0,0,1.0
+BAJAJ-AUTO,pro,P06_FCF_POSITIVE_5Y,Company has generated positive free cash flow in each of the last 5 years,84.5,0,1.0
+BAJAJ-AUTO,pro,P09_HEALTHY_PAYOUT,Company has been maintaining a healthy dividend payout of 53.3%,81.0,0,1.0
+BAJAJ-AUTO,pro,P01_ROE_TRACK_RECORD,Company has a good return on equity (ROE) track record: 3 Years ROE 22.6%,64.6,0,1.0
+BAJAJ-AUTO,pro,P02_HIGH_ROCE,Company has a healthy return on capital employed (ROCE) of 27.2%,63.1,0,1.0
+BAJAJ-AUTO,con,R02_SECTOR_WEAKNESS,Below the sector median on 5-year profit growth (sector percentile 31),64.8,0,0.0
+BAJAJFINSV,pro,P12_CONSISTENT_GROWTH,Company has grown sales in each of the last 5 years,82.8,0,0.0
+BAJAJFINSV,pro,P04_REVENUE_GROWTH,Company has delivered good sales growth of 21.0% CAGR over last 5 years,73.9,0,1.0
+BAJAJFINSV,pro,P01_ROE_TRACK_RECORD,Company has a good return on equity (ROE) track record: 3 Years ROE 24.3%,67.5,0,1.0
+BAJAJFINSV,pro,P05_PROFIT_GROWTH,Company has delivered good profit growth of 23.7% CAGR over last 5 years,66.6,0,1.0
+BAJAJFINSV,con,C09_LOW_PAYOUT,Dividend payout has been low at 1.7% of profits over last 3 years,77.5,0,-1.0
+BAJAJHLDNG,pro,P04_REVENUE_GROWTH,Company has delivered good sales growth of 31.6% CAGR over last 5 years,95.0,0,1.0
+BAJAJHLDNG,pro,P12_CONSISTENT_GROWTH,Company has grown sales in each of the last 5 years,82.8,0,0.0
+BAJAJHLDNG,con,R02_SECTOR_WEAKNESS,Below the sector median on return on equity (sector percentile 27),65.5,0,-1.0
+BAJFINANCE,pro,P12_CONSISTENT_GROWTH,Company has grown sales in each of the last 5 years,82.8,0,0.0
+BAJFINANCE,pro,P04_REVENUE_GROWTH,Company has delivered good sales growth of 24.4% CAGR over last 5 years,81.8,0,1.0
+BAJFINANCE,pro,P05_PROFIT_GROWTH,Company has delivered good profit growth of 29.3% CAGR over last 5 years,76.3,0,1.0
+BAJFINANCE,con,R04_DATA_GAP,No significant weakness identified; monitor valuation,61.0,0,0.0
+BANKBARODA,pro,P05_PROFIT_GROWTH,Company has delivered good profit growth of 74.5% CAGR over last 5 years,95.0,0,1.0
+BANKBARODA,pro,P04_REVENUE_GROWTH,Company has delivered good sales growth of 17.5% CAGR over last 5 years,65.8,0,1.0
+BANKBARODA,con,R02_SECTOR_WEAKNESS,Below the sector median on leverage (D/E) (sector percentile 9),69.2,0,-1.0
+BEL,pro,P10_STRONG_INTEREST_COVER,Company comfortably services its debt: interest coverage of 476.8x,95.0,0,1.0
+BEL,pro,P12_CONSISTENT_GROWTH,Company has grown sales in each of the last 5 years,82.8,0,0.0
+BEL,pro,P09_HEALTHY_PAYOUT,Company has been maintaining a healthy dividend payout of 43.3%,81.0,0,1.0
+BEL,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 1.33x profit over 5 years,79.4,0,0.0
+BEL,pro,P11_MARGIN_EXPANSION,Operating margin has expanded by 2.1 points over the last 3 years,61.0,0,0.0
+BEL,con,R02_SECTOR_WEAKNESS,Below the sector median on 5-year sales growth (sector percentile 44),62.1,0,0.0
+BHARTIARTL,pro,P05_PROFIT_GROWTH,Company has delivered good profit growth of 38.4% CAGR over last 5 years,92.1,0,1.0
+BHARTIARTL,pro,P11_MARGIN_EXPANSION,Operating margin has expanded by 7.2 points over the last 3 years,90.3,0,0.0
+BHARTIARTL,pro,P12_CONSISTENT_GROWTH,Company has grown sales in each of the last 5 years,82.8,0,0.0
+BHARTIARTL,pro,P09_HEALTHY_PAYOUT,Company has been maintaining a healthy dividend payout of 42.7%,81.0,0,1.0
+BHARTIARTL,con,C02_HIGH_LEVERAGE,Company has a high debt to equity ratio of 2.6x,65.3,0,1.0
+BHEL,pro,P11_MARGIN_EXPANSION,Operating margin has expanded by 20.6 points over the last 3 years,95.0,0,0.0
+BHEL,con,C07_PROFIT_DECLINE,Profit has declined at -22.4% CAGR over the last 5 years,95.0,0,-1.0
+BHEL,con,C12_OTHER_INCOME_DEPENDENCE,Earnings depend on other income: 250% of pre-tax profit,95.0,0,0.0
+BHEL,con,C06_POOR_SALES_GROWTH,The company has delivered a poor sales growth of -4.7% over past five years.,94.1,0,0.333
+BHEL,con,C11_DISTRESS_PATTERN,Operating cash flow is negative and operations are being funded through financing (distress pattern),91.5,0,-1.0
+BHEL,con,C01_LOW_ROE,Company has a low return on equity of 1.8% over last 3 years,88.6,0,-1.0
+BOSCHLTD,pro,P10_STRONG_INTEREST_COVER,Company comfortably services its debt: interest coverage of 71.8x,95.0,0,1.0
+BOSCHLTD,pro,P03_DEBT_FREE,Company is almost debt free.,91.5,0,1.0
+BOSCHLTD,pro,P06_FCF_POSITIVE_5Y,Company has generated positive free cash flow in each of the last 5 years,84.5,0,1.0
+BOSCHLTD,pro,P09_HEALTHY_PAYOUT,Company has been maintaining a healthy dividend payout of 64.7%,81.0,0,1.0
+BOSCHLTD,con,C12_OTHER_INCOME_DEPENDENCE,Earnings depend on other income: 49% of pre-tax profit,65.4,0,0.0
+BPCL,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 1.62x profit over 5 years,95.0,0,0.0
+BPCL,pro,P09_HEALTHY_PAYOUT,Company has been maintaining a healthy dividend payout of 34.0%,81.0,0,1.0
+BPCL,pro,P05_PROFIT_GROWTH,Company has delivered good profit growth of 25.8% CAGR over last 5 years,70.1,0,1.0
+BPCL,pro,P02_HIGH_ROCE,Company has a healthy return on capital employed (ROCE) of 28.6%,65.1,0,1.0
+BPCL,pro,P10_STRONG_INTEREST_COVER,Company comfortably services its debt: interest coverage of 11.4x,62.4,0,1.0
+BPCL,con,R02_SECTOR_WEAKNESS,Below the sector median on net profit margin (sector percentile 14),68.1,0,-1.0
+BRITANNIA,pro,P01_ROE_TRACK_RECORD,Company has a good return on equity (ROE) track record: 3 Years ROE 59.6%,95.0,0,1.0
+BRITANNIA,pro,P02_HIGH_ROCE,Company has a healthy return on capital employed (ROCE) of 47.7%,91.8,0,1.0
+BRITANNIA,pro,P12_CONSISTENT_GROWTH,Company has grown sales in each of the last 5 years,82.8,0,0.0
+BRITANNIA,pro,P10_STRONG_INTEREST_COVER,Company comfortably services its debt: interest coverage of 20.6x,78.5,0,1.0
+BRITANNIA,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 1.06x profit over 5 years,63.5,0,0.0
+BRITANNIA,con,R02_SECTOR_WEAKNESS,Below the sector median on leverage (D/E) (sector percentile 14),68.1,0,-1.0
+CANBK,pro,P05_PROFIT_GROWTH,Company has delivered good profit growth of 85.8% CAGR over last 5 years,95.0,0,1.0
+CANBK,pro,P12_CONSISTENT_GROWTH,Company has grown sales in each of the last 5 years,82.8,0,0.0
+CANBK,pro,P04_REVENUE_GROWTH,Company has delivered good sales growth of 18.2% CAGR over last 5 years,67.4,0,1.0
+CANBK,con,R02_SECTOR_WEAKNESS,Below the sector median on leverage (D/E) (sector percentile 5),70.1,0,-1.0
+CHOLAFIN,pro,P12_CONSISTENT_GROWTH,Company has grown sales in each of the last 5 years,82.8,0,0.0
+CHOLAFIN,pro,P04_REVENUE_GROWTH,Company has delivered good sales growth of 21.9% CAGR over last 5 years,76.2,0,1.0
+CHOLAFIN,pro,P05_PROFIT_GROWTH,Company has delivered good profit growth of 23.4% CAGR over last 5 years,65.9,0,1.0
+CHOLAFIN,con,C09_LOW_PAYOUT,Dividend payout has been low at 6.3% of profits over last 3 years,77.5,0,-1.0
+CIPLA,pro,P03_DEBT_FREE,Company is almost debt free.,91.5,0,1.0
+CIPLA,pro,P06_FCF_POSITIVE_5Y,Company has generated positive free cash flow in each of the last 5 years,84.5,0,1.0
+CIPLA,pro,P12_CONSISTENT_GROWTH,Company has grown sales in each of the last 5 years,82.8,0,0.0
+CIPLA,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 1.31x profit over 5 years,77.8,0,0.0
+CIPLA,pro,P05_PROFIT_GROWTH,Company has delivered good profit growth of 22.7% CAGR over last 5 years,64.8,0,1.0
+CIPLA,con,R02_SECTOR_WEAKNESS,Below the sector median on 5-year sales growth (sector percentile 29),65.3,0,0.0
+COALINDIA,pro,P01_ROE_TRACK_RECORD,Company has a good return on equity (ROE) track record: 3 Years ROE 45.9%,95.0,0,1.0
+COALINDIA,pro,P11_MARGIN_EXPANSION,Operating margin has expanded by 13.0 points over the last 3 years,95.0,0,0.0
+COALINDIA,pro,P02_HIGH_ROCE,Company has a healthy return on capital employed (ROCE) of 46.2%,89.7,0,1.0
+COALINDIA,pro,P06_FCF_POSITIVE_5Y,Company has generated positive free cash flow in each of the last 5 years,84.5,0,1.0
+COALINDIA,pro,P09_HEALTHY_PAYOUT,Company has been maintaining a healthy dividend payout of 49.7%,81.0,0,1.0
+COALINDIA,con,R02_SECTOR_WEAKNESS,Below the sector median on 5-year sales growth (sector percentile 33),64.3,0,0.0
+DABUR,pro,P06_FCF_POSITIVE_5Y,Company has generated positive free cash flow in each of the last 5 years,84.5,0,1.0
+DABUR,pro,P10_STRONG_INTEREST_COVER,Company comfortably services its debt: interest coverage of 23.2x,83.2,0,1.0
+DABUR,pro,P12_CONSISTENT_GROWTH,Company has grown sales in each of the last 5 years,82.8,0,0.0
+DABUR,pro,P09_HEALTHY_PAYOUT,Company has been maintaining a healthy dividend payout of 53.3%,81.0,0,1.0
+DABUR,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 1.08x profit over 5 years,64.4,0,0.0
+DABUR,con,R02_SECTOR_WEAKNESS,Below the sector median on 5-year profit growth (sector percentile 17),67.7,0,0.0
+DIVISLAB,pro,P10_STRONG_INTEREST_COVER,Company comfortably services its debt: interest coverage of 636.2x,95.0,0,1.0
+DIVISLAB,pro,P03_DEBT_FREE,Company is almost debt free.,91.5,0,1.0
+DIVISLAB,pro,P09_HEALTHY_PAYOUT,Company has been maintaining a healthy dividend payout of 40.3%,81.0,0,1.0
+DIVISLAB,pro,P08_HIGH_MARGIN,Company has a high net profit margin of 20.4%,61.0,0,1.0
+DIVISLAB,con,R02_SECTOR_WEAKNESS,Below the sector median on return on equity (sector percentile 14),68.1,0,-1.0
+DLF,pro,P08_HIGH_MARGIN,Company has a high net profit margin of 42.4%,95.0,0,1.0
+DLF,pro,P06_FCF_POSITIVE_5Y,Company has generated positive free cash flow in each of the last 5 years,84.5,0,1.0
+DLF,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 1.42x profit over 5 years,84.3,0,0.0
+DLF,pro,P11_MARGIN_EXPANSION,Operating margin has expanded by 5.9 points over the last 3 years,82.8,0,0.0
+DLF,pro,P09_HEALTHY_PAYOUT,Company has been maintaining a healthy dividend payout of 47.7%,81.0,0,1.0
+DLF,con,C06_POOR_SALES_GROWTH,The company has delivered a poor sales growth of -5.1% over past five years.,95.0,0,0.333
+DLF,con,C01_LOW_ROE,Company has a low return on equity of 5.5% over last 3 years,75.8,0,-1.0
+DMART,pro,P10_STRONG_INTEREST_COVER,Company comfortably services its debt: interest coverage of 73.3x,95.0,0,1.0
+DMART,pro,P03_DEBT_FREE,Company is almost debt free.,91.5,0,1.0
+DMART,pro,P04_REVENUE_GROWTH,Company has delivered good sales growth of 20.5% CAGR over last 5 years,72.8,0,1.0
+DMART,pro,P05_PROFIT_GROWTH,Company has delivered good profit growth of 23.0% CAGR over last 5 years,65.2,0,1.0
+DMART,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 1.07x profit over 5 years,64.0,0,0.0
+DMART,con,C09_LOW_PAYOUT,Dividend payout has been low at 0.0% of profits over last 3 years,77.5,0,-1.0
+DMART,con,C08_LOW_MARGIN,Company has a low net profit margin of 5.0%,61.0,0,-1.0
+DRREDDY,pro,P10_STRONG_INTEREST_COVER,Company comfortably services its debt: interest coverage of 51.7x,95.0,0,1.0
+DRREDDY,pro,P11_MARGIN_EXPANSION,Operating margin has expanded by 8.0 points over the last 3 years,94.9,0,0.0
+DRREDDY,pro,P06_FCF_POSITIVE_5Y,Company has generated positive free cash flow in each of the last 5 years,84.5,0,1.0
+DRREDDY,pro,P12_CONSISTENT_GROWTH,Company has grown sales in each of the last 5 years,82.8,0,0.0
+DRREDDY,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 1.22x profit over 5 years,72.8,0,0.0
+DRREDDY,con,R02_SECTOR_WEAKNESS,Below the sector median on leverage (D/E) (sector percentile 43),62.4,0,-1.0
+EICHERMOT,pro,P10_STRONG_INTEREST_COVER,Company comfortably services its debt: interest coverage of 114.7x,95.0,0,1.0
+EICHERMOT,pro,P03_DEBT_FREE,Company is almost debt free.,91.5,0,1.0
+EICHERMOT,pro,P06_FCF_POSITIVE_5Y,Company has generated positive free cash flow in each of the last 5 years,84.5,0,1.0
+EICHERMOT,pro,P11_MARGIN_EXPANSION,Operating margin has expanded by 5.7 points over the last 3 years,81.8,0,0.0
+EICHERMOT,pro,P09_HEALTHY_PAYOUT,Company has been maintaining a healthy dividend payout of 34.7%,81.0,0,1.0
+EICHERMOT,con,R02_SECTOR_WEAKNESS,Below the sector median on 5-year profit growth (sector percentile 46),61.8,0,0.0
+GAIL,pro,P10_STRONG_INTEREST_COVER,Company comfortably services its debt: interest coverage of 23.6x,83.8,0,1.0
+GAIL,pro,P09_HEALTHY_PAYOUT,Company has been maintaining a healthy dividend payout of 44.0%,81.0,0,1.0
+GAIL,con,R02_SECTOR_WEAKNESS,Below the sector median on 5-year profit growth (sector percentile 17),67.7,0,0.0
+GODREJCP,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 1.51x profit over 5 years,89.9,0,0.0
+GODREJCP,con,C07_PROFIT_DECLINE,Company reported a net loss in the latest year,89.8,0,-1.0
+GODREJCP,con,C03_LOW_INTEREST_COVER,Company has a low interest coverage ratio of 2.4x,68.2,0,-1.0
+GODREJCP,con,C01_LOW_ROE,Company has a low return on equity of 7.8% over last 3 years,67.8,0,-1.0
+GRASIM,pro,P05_PROFIT_GROWTH,Company has delivered good profit growth of 29.3% CAGR over last 5 years,76.3,0,1.0
+GRASIM,con,C11_DISTRESS_PATTERN,Operating cash flow is negative and operations are being funded through financing (distress pattern),91.5,0,-1.0
+GRASIM,con,C09_LOW_PAYOUT,Dividend payout has been low at 10.3% of profits over last 3 years,77.5,0,-1.0
+GRASIM,con,C05_WEAK_CASH_CONVERSION,Cash conversion is weak: operating cash flow is only 0.33x profit over 5 years,71.6,0,-1.0
+HAL,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 1.79x profit over 5 years,95.0,0,0.0
+HAL,pro,P10_STRONG_INTEREST_COVER,Company comfortably services its debt: interest coverage of 270.9x,95.0,0,1.0
+HAL,pro,P11_MARGIN_EXPANSION,Operating margin has expanded by 8.7 points over the last 3 years,95.0,0,0.0
+HAL,pro,P12_CONSISTENT_GROWTH,Company has grown sales in each of the last 5 years,82.8,0,0.0
+HAL,pro,P08_HIGH_MARGIN,Company has a high net profit margin of 25.0%,71.7,0,1.0
+HAL,con,R02_SECTOR_WEAKNESS,Below the sector median on 5-year sales growth (sector percentile 22),66.6,0,0.0
+HAVELLS,pro,P03_DEBT_FREE,Company is almost debt free.,91.5,0,1.0
+HAVELLS,pro,P10_STRONG_INTEREST_COVER,Company comfortably services its debt: interest coverage of 25.4x,86.9,0,1.0
+HAVELLS,pro,P09_HEALTHY_PAYOUT,Company has been maintaining a healthy dividend payout of 42.3%,81.0,0,1.0
+HAVELLS,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 1.08x profit over 5 years,64.6,0,0.0
+HAVELLS,con,R02_SECTOR_WEAKNESS,Below the sector median on net profit margin (sector percentile 33),64.3,0,-1.0
+HCLTECH,pro,P10_STRONG_INTEREST_COVER,Company comfortably services its debt: interest coverage of 46.5x,95.0,0,1.0
+HCLTECH,pro,P06_FCF_POSITIVE_5Y,Company has generated positive free cash flow in each of the last 5 years,84.5,0,1.0
+HCLTECH,pro,P12_CONSISTENT_GROWTH,Company has grown sales in each of the last 5 years,82.8,0,0.0
+HCLTECH,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 1.36x profit over 5 years,81.1,0,0.0
+HCLTECH,pro,P01_ROE_TRACK_RECORD,Company has a good return on equity (ROE) track record: 3 Years ROE 22.5%,64.4,0,1.0
+HCLTECH,con,R04_DATA_GAP,No significant weakness identified; monitor valuation,61.0,0,0.0
+HDFCBANK,pro,P12_CONSISTENT_GROWTH,Company has grown sales in each of the last 5 years,82.8,1,0.0
+HDFCBANK,pro,P04_REVENUE_GROWTH,Company has delivered good sales growth of 22.0% CAGR over last 5 years,76.2,1,1.0
+HDFCBANK,pro,P05_PROFIT_GROWTH,Company has delivered good profit growth of 23.9% CAGR over last 5 years,66.8,1,1.0
+HDFCBANK,con,R02_SECTOR_WEAKNESS,Below the sector median on leverage (D/E) (sector percentile 36),63.7,1,-1.0
+HDFCLIFE,pro,P04_REVENUE_GROWTH,Company has delivered good sales growth of 21.2% CAGR over last 5 years,74.4,0,1.0
+HDFCLIFE,con,C01_LOW_ROE,Company has a low return on equity of 9.9% over last 3 years,61.0,0,-1.0
+HEROMOTOCO,pro,P03_DEBT_FREE,Company is almost debt free.,91.5,0,1.0
+HEROMOTOCO,pro,P06_FCF_POSITIVE_5Y,Company has generated positive free cash flow in each of the last 5 years,84.5,0,1.0
+HEROMOTOCO,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 1.25x profit over 5 years,74.3,0,0.0
+HEROMOTOCO,con,C06_POOR_SALES_GROWTH,The company has delivered a poor sales growth of 2.2% over past five years.,70.0,0,0.333
+HINDALCO,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 2.18x profit over 5 years,95.0,0,0.0
+HINDALCO,pro,P10_STRONG_INTEREST_COVER,Company comfortably services its debt: interest coverage of 15.7x,70.0,0,1.0
+HINDALCO,con,C09_LOW_PAYOUT,Dividend payout has been low at 7.0% of profits over last 3 years,77.5,0,-1.0
+HINDALCO,con,C08_LOW_MARGIN,Company has a low net profit margin of 4.7%,62.1,0,-1.0
+HINDUNILVR,pro,P03_DEBT_FREE,Company is almost debt free.,91.5,0,1.0
+HINDUNILVR,pro,P06_FCF_POSITIVE_5Y,Company has generated positive free cash flow in each of the last 5 years,84.5,0,1.0
+HINDUNILVR,pro,P12_CONSISTENT_GROWTH,Company has grown sales in each of the last 5 years,82.8,0,0.0
+HINDUNILVR,pro,P10_STRONG_INTEREST_COVER,Company comfortably services its debt: interest coverage of 18.0x,74.0,0,1.0
+HINDUNILVR,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 1.16x profit over 5 years,69.6,0,0.0
+HINDUNILVR,con,R04_DATA_GAP,No significant weakness identified; monitor valuation,61.0,0,0.0
+ICICIBANK,pro,P05_PROFIT_GROWTH,Company has delivered good profit growth of 51.9% CAGR over last 5 years,95.0,0,1.0
+ICICIBANK,pro,P12_CONSISTENT_GROWTH,Company has grown sales in each of the last 5 years,82.8,0,0.0
+ICICIBANK,pro,P04_REVENUE_GROWTH,Company has delivered good sales growth of 17.3% CAGR over last 5 years,65.3,0,1.0
+ICICIBANK,con,R02_SECTOR_WEAKNESS,Below the sector median on leverage (D/E) (sector percentile 41),62.8,0,-1.0
+ICICIGI,pro,P12_CONSISTENT_GROWTH,Company has grown sales in each of the last 5 years,82.8,0,0.0
+ICICIGI,pro,P09_HEALTHY_PAYOUT,Company has been maintaining a healthy dividend payout of 31.3%,81.0,0,1.0
+ICICIGI,con,R02_SECTOR_WEAKNESS,Below the sector median on 5-year sales growth (sector percentile 18),67.4,0,0.0
+ICICIPRULI,pro,P04_REVENUE_GROWTH,Company has delivered good sales growth of 16.8% CAGR over last 5 years,64.3,0,1.0
+ICICIPRULI,con,C09_LOW_PAYOUT,Dividend payout has been low at 10.3% of profits over last 3 years,77.5,0,-1.0
+ICICIPRULI,con,C07_PROFIT_DECLINE,Profit has declined at -5.7% CAGR over the last 5 years,73.2,0,-1.0
+ICICIPRULI,con,C01_LOW_ROE,Company has a low return on equity of 8.0% over last 3 years,66.9,0,-1.0
+INDIGO,pro,P05_PROFIT_GROWTH,Company has delivered good profit growth of 120.7% CAGR over last 5 years,95.0,0,1.0
+INDIGO,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 37.05x profit over 5 years,95.0,0,0.0
+INDIGO,pro,P11_MARGIN_EXPANSION,Operating margin has expanded by 23.7 points over the last 3 years,95.0,0,0.0
+INDIGO,pro,P06_FCF_POSITIVE_5Y,Company has generated positive free cash flow in each of the last 5 years,84.5,0,1.0
+INDIGO,pro,P04_REVENUE_GROWTH,Company has delivered good sales growth of 19.3% CAGR over last 5 years,70.1,0,1.0
+INDIGO,con,C09_LOW_PAYOUT,Dividend payout has been low at 0.0% of profits over last 3 years,77.5,0,-1.0
+INDUSINDBK,pro,P12_CONSISTENT_GROWTH,Company has grown sales in each of the last 5 years,82.8,0,0.0
+INDUSINDBK,pro,P05_PROFIT_GROWTH,Company has delivered good profit growth of 22.1% CAGR over last 5 years,63.6,0,1.0
+INDUSINDBK,pro,P04_REVENUE_GROWTH,Company has delivered good sales growth of 15.5% CAGR over last 5 years,61.2,0,1.0
+INDUSINDBK,con,C09_LOW_PAYOUT,Dividend payout has been low at 14.3% of profits over last 3 years,77.5,0,-1.0
+INFY,pro,P10_STRONG_INTEREST_COVER,Company comfortably services its debt: interest coverage of 87.5x,95.0,1,1.0
+INFY,pro,P06_FCF_POSITIVE_5Y,Company has generated positive free cash flow in each of the last 5 years,84.5,1,1.0
+INFY,pro,P12_CONSISTENT_GROWTH,Company has grown sales in each of the last 5 years,82.8,1,0.0
+INFY,pro,P09_HEALTHY_PAYOUT,Company has been maintaining a healthy dividend payout of 66.0%,81.0,1,1.0
+INFY,pro,P01_ROE_TRACK_RECORD,Company has a good return on equity (ROE) track record: 3 Years ROE 30.4%,78.2,1,1.0
+INFY,con,R04_DATA_GAP,No significant weakness identified; monitor valuation,61.0,1,0.0
+IOC,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 1.82x profit over 5 years,95.0,0,0.0
+IOC,pro,P09_HEALTHY_PAYOUT,Company has been maintaining a healthy dividend payout of 42.7%,81.0,0,1.0
+IOC,pro,P05_PROFIT_GROWTH,Company has delivered good profit growth of 20.1% CAGR over last 5 years,61.0,0,1.0
+IOC,pro,P10_STRONG_INTEREST_COVER,Company comfortably services its debt: interest coverage of 10.3x,61.0,0,1.0
+IOC,con,R02_SECTOR_WEAKNESS,Below the sector median on net profit margin (sector percentile 7),69.6,0,-1.0
+IRCTC,pro,P10_STRONG_INTEREST_COVER,Company comfortably services its debt: interest coverage of 82.7x,95.0,0,1.0
+IRCTC,pro,P11_MARGIN_EXPANSION,Operating margin has expanded by 10.1 points over the last 3 years,95.0,0,0.0
+IRCTC,pro,P03_DEBT_FREE,Company is almost debt free.,91.5,0,1.0
+IRCTC,pro,P01_ROE_TRACK_RECORD,Company has a good return on equity (ROE) track record: 3 Years ROE 36.8%,89.3,0,1.0
+IRCTC,pro,P02_HIGH_ROCE,Company has a healthy return on capital employed (ROCE) of 42.8%,85.0,0,1.0
+IRCTC,con,R04_DATA_GAP,No significant weakness identified; monitor valuation,61.0,0,0.0
+IRFC,pro,P12_CONSISTENT_GROWTH,Company has grown sales in each of the last 5 years,82.8,0,0.0
+IRFC,pro,P09_HEALTHY_PAYOUT,Company has been maintaining a healthy dividend payout of 31.0%,81.0,0,1.0
+IRFC,pro,P04_REVENUE_GROWTH,Company has delivered good sales growth of 19.1% CAGR over last 5 years,69.5,0,1.0
+IRFC,pro,P05_PROFIT_GROWTH,Company has delivered good profit growth of 23.2% CAGR over last 5 years,65.7,0,1.0
+IRFC,con,R02_SECTOR_WEAKNESS,Below the sector median on leverage (D/E) (sector percentile 18),67.4,0,-1.0
+ITC,pro,P10_STRONG_INTEREST_COVER,Company comfortably services its debt: interest coverage of 363.0x,95.0,0,1.0
+ITC,pro,P03_DEBT_FREE,Company is almost debt free.,91.5,0,1.0
+ITC,pro,P06_FCF_POSITIVE_5Y,Company has generated positive free cash flow in each of the last 5 years,84.5,0,1.0
+ITC,pro,P08_HIGH_MARGIN,Company has a high net profit margin of 29.3%,81.7,0,1.0
+ITC,pro,P01_ROE_TRACK_RECORD,Company has a good return on equity (ROE) track record: 3 Years ROE 26.9%,72.2,0,1.0
+ITC,con,R02_SECTOR_WEAKNESS,Below the sector median on 5-year profit growth (sector percentile 33),64.3,0,0.0
+JINDALSTEL,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 2.44x profit over 5 years,95.0,0,0.0
+JINDALSTEL,con,C09_LOW_PAYOUT,Dividend payout has been low at 4.7% of profits over last 3 years,77.5,0,-1.0
+JINDALSTEL,con,C06_POOR_SALES_GROWTH,The company has delivered a poor sales growth of 1.4% over past five years.,72.6,0,0.333
+JIOFIN,pro,R01_SECTOR_STRENGTH,Above the sector median on net profit margin (sector percentile 96),70.1,0,1.0
+JIOFIN,con,C01_LOW_ROE,Company has a low return on equity of 0.6% over last 3 years,92.9,0,-1.0
+JIOFIN,con,C09_LOW_PAYOUT,Dividend payout has been low at 0.0% of profits over last 3 years,77.5,0,-1.0
+JSWENERGY,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 2.49x profit over 5 years,95.0,0,0.0
+JSWENERGY,pro,P11_MARGIN_EXPANSION,Operating margin has expanded by 4.8 points over the last 3 years,76.2,0,0.0
+JSWENERGY,pro,P05_PROFIT_GROWTH,Company has delivered good profit growth of 20.3% CAGR over last 5 years,61.0,0,1.0
+JSWENERGY,con,C01_LOW_ROE,Company has a low return on equity of 8.7% over last 3 years,64.4,0,-1.0
+JSWENERGY,con,C03_LOW_INTEREST_COVER,Company has a low interest coverage ratio of 2.9x,62.1,0,-1.0
+JSWENERGY,con,C06_POOR_SALES_GROWTH,The company has delivered a poor sales growth of 4.7% over past five years.,61.1,0,0.333
+JSWSTEEL,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 2.03x profit over 5 years,95.0,0,0.0
+JSWSTEEL,pro,P04_REVENUE_GROWTH,Company has delivered good sales growth of 15.6% CAGR over last 5 years,61.4,0,1.0
+JSWSTEEL,con,R02_SECTOR_WEAKNESS,Below the sector median on leverage (D/E) (sector percentile 11),68.8,0,-1.0
+KOTAKBANK,pro,P05_PROFIT_GROWTH,Company has delivered good profit growth of 20.4% CAGR over last 5 years,61.0,0,1.0
+KOTAKBANK,con,C09_LOW_PAYOUT,Dividend payout has been low at 2.0% of profits over last 3 years,77.5,0,-1.0
+LICI,pro,P01_ROE_TRACK_RECORD,Company has a good return on equity (ROE) track record: 3 Years ROE 54.6%,95.0,0,1.0
+LICI,pro,P05_PROFIT_GROWTH,Company has delivered good profit growth of 73.2% CAGR over last 5 years,95.0,0,1.0
+LICI,pro,P12_CONSISTENT_GROWTH,Company has grown sales in each of the last 5 years,82.8,0,0.0
+LICI,con,C09_LOW_PAYOUT,Dividend payout has been low at 14.3% of profits over last 3 years,77.5,0,-1.0
+LODHA,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 3.35x profit over 5 years,95.0,0,0.0
+LODHA,con,C06_POOR_SALES_GROWTH,The company has delivered a poor sales growth of -2.8% over past five years.,87.4,0,0.333
+LODHA,con,C01_LOW_ROE,Company has a low return on equity of 7.6% over last 3 years,68.5,0,-1.0
+LODHA,con,C07_PROFIT_DECLINE,Profit has declined at -1.1% CAGR over the last 5 years,62.6,0,-1.0
+LT,pro,P01_ROE_TRACK_RECORD,Company has a good return on equity (ROE) track record: 3 Years ROE 74.2%,95.0,0,1.0
+LT,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 1.44x profit over 5 years,85.9,0,0.0
+LT,pro,P09_HEALTHY_PAYOUT,Company has been maintaining a healthy dividend payout of 34.7%,81.0,0,1.0
+LT,con,R02_SECTOR_WEAKNESS,Below the sector median on 5-year profit growth (sector percentile 22),66.6,0,0.0
+LTIM,pro,P04_REVENUE_GROWTH,Company has delivered good sales growth of 30.3% CAGR over last 5 years,95.0,0,1.0
+LTIM,pro,P10_STRONG_INTEREST_COVER,Company comfortably services its debt: interest coverage of 31.9x,95.0,0,1.0
+LTIM,pro,P06_FCF_POSITIVE_5Y,Company has generated positive free cash flow in each of the last 5 years,84.5,0,1.0
+LTIM,pro,P12_CONSISTENT_GROWTH,Company has grown sales in each of the last 5 years,82.8,0,0.0
+LTIM,pro,P09_HEALTHY_PAYOUT,Company has been maintaining a healthy dividend payout of 41.0%,81.0,0,1.0
+LTIM,con,R02_SECTOR_WEAKNESS,Below the sector median on leverage (D/E) (sector percentile 20),67.0,0,-1.0
+M&M,pro,P11_MARGIN_EXPANSION,Operating margin has expanded by 2.4 points over the last 3 years,62.5,0,0.0
+M&M,con,C11_DISTRESS_PATTERN,Operating cash flow is negative and operations are being funded through financing (distress pattern),91.5,0,-1.0
+M&M,con,C05_WEAK_CASH_CONVERSION,Cash conversion is weak: operating cash flow is only 0.41x profit over 5 years,66.6,0,-1.0
+MARUTI,pro,P10_STRONG_INTEREST_COVER,Company comfortably services its debt: interest coverage of 117.9x,95.0,0,1.0
+MARUTI,pro,P03_DEBT_FREE,Company is almost debt free.,91.5,0,1.0
+MARUTI,pro,P06_FCF_POSITIVE_5Y,Company has generated positive free cash flow in each of the last 5 years,84.5,0,1.0
+MARUTI,pro,P09_HEALTHY_PAYOUT,Company has been maintaining a healthy dividend payout of 36.7%,81.0,0,1.0
+MARUTI,pro,P11_MARGIN_EXPANSION,Operating margin has expanded by 5.4 points over the last 3 years,80.1,0,0.0
+MARUTI,con,R02_SECTOR_WEAKNESS,Below the sector median on return on equity (sector percentile 23),66.4,0,-1.0
+MOTHERSON,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 2.99x profit over 5 years,95.0,0,0.0
+MOTHERSON,pro,P06_FCF_POSITIVE_5Y,Company has generated positive free cash flow in each of the last 5 years,84.5,0,1.0
+MOTHERSON,con,C08_LOW_MARGIN,Company has a low net profit margin of 3.1%,73.6,0,-1.0
+MOTHERSON,con,C01_LOW_ROE,Company has a low return on equity of 8.2% over last 3 years,66.2,0,-1.0
+NAUKRI,pro,P11_MARGIN_EXPANSION,Operating margin has expanded by 21.5 points over the last 3 years,95.0,0,0.0
+NAUKRI,pro,P10_STRONG_INTEREST_COVER,Company comfortably services its debt: interest coverage of 29.0x,93.2,0,1.0
+NAUKRI,pro,P03_DEBT_FREE,Company is almost debt free.,91.5,0,1.0
+NAUKRI,pro,P08_HIGH_MARGIN,Company has a high net profit margin of 23.5%,68.1,0,1.0
+NAUKRI,pro,P04_REVENUE_GROWTH,Company has delivered good sales growth of 17.1% CAGR over last 5 years,64.9,0,1.0
+NAUKRI,con,C05_WEAK_CASH_CONVERSION,Cash conversion is weak: operating cash flow is only 0.17x profit over 5 years,82.8,0,-1.0
+NAUKRI,con,C09_LOW_PAYOUT,Dividend payout has been low at -59.3% of profits over last 3 years,77.5,0,-1.0
+NESTLEIND,pro,P01_ROE_TRACK_RECORD,Company has a good return on equity (ROE) track record: 3 Years ROE 112.3%,95.0,0,1.0
+NESTLEIND,pro,P02_HIGH_ROCE,Company has a healthy return on capital employed (ROCE) of 143.1%,95.0,0,1.0
+NESTLEIND,pro,P10_STRONG_INTEREST_COVER,Company comfortably services its debt: interest coverage of 41.2x,95.0,0,1.0
+NESTLEIND,pro,P06_FCF_POSITIVE_5Y,Company has generated positive free cash flow in each of the last 5 years,84.5,0,1.0
+NESTLEIND,pro,P12_CONSISTENT_GROWTH,Company has grown sales in each of the last 5 years,82.8,0,0.0
+NESTLEIND,con,R04_DATA_GAP,No significant weakness identified; monitor valuation,61.0,0,0.0
+NHPC,pro,P08_HIGH_MARGIN,Company has a high net profit margin of 41.8%,95.0,0,1.0
+NHPC,pro,P06_FCF_POSITIVE_5Y,Company has generated positive free cash flow in each of the last 5 years,84.5,0,1.0
+NHPC,pro,P09_HEALTHY_PAYOUT,Company has been maintaining a healthy dividend payout of 51.0%,81.0,0,1.0
+NHPC,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 1.28x profit over 5 years,76.2,0,0.0
+NHPC,pro,P10_STRONG_INTEREST_COVER,Company comfortably services its debt: interest coverage of 11.2x,62.2,0,1.0
+NHPC,con,C06_POOR_SALES_GROWTH,The company has delivered a poor sales growth of 1.4% over past five years.,72.6,0,0.333
+NHPC,con,C12_OTHER_INCOME_DEPENDENCE,Earnings depend on other income: 40% of pre-tax profit,61.0,0,0.0
+NTPC,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 2.26x profit over 5 years,95.0,0,0.0
+NTPC,pro,P12_CONSISTENT_GROWTH,Company has grown sales in each of the last 5 years,82.8,0,0.0
+NTPC,pro,P09_HEALTHY_PAYOUT,Company has been maintaining a healthy dividend payout of 39.7%,81.0,0,1.0
+NTPC,con,R02_SECTOR_WEAKNESS,Below the sector median on 5-year profit growth (sector percentile 25),66.0,0,0.0
+ONGC,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 2.22x profit over 5 years,95.0,0,0.0
+ONGC,pro,P06_FCF_POSITIVE_5Y,Company has generated positive free cash flow in each of the last 5 years,84.5,0,1.0
+ONGC,pro,P09_HEALTHY_PAYOUT,Company has been maintaining a healthy dividend payout of 33.3%,81.0,0,1.0
+ONGC,pro,P10_STRONG_INTEREST_COVER,Company comfortably services its debt: interest coverage of 11.4x,62.4,0,1.0
+ONGC,con,R02_SECTOR_WEAKNESS,Below the sector median on 5-year sales growth (sector percentile 29),65.3,0,0.0
+PFC,pro,P12_CONSISTENT_GROWTH,Company has grown sales in each of the last 5 years,82.8,0,0.0
+PFC,pro,P01_ROE_TRACK_RECORD,Company has a good return on equity (ROE) track record: 3 Years ROE 25.8%,70.2,0,1.0
+PFC,con,R02_SECTOR_WEAKNESS,Below the sector median on 5-year sales growth (sector percentile 9),69.2,0,0.0
+PIDILITIND,pro,P10_STRONG_INTEREST_COVER,Company comfortably services its debt: interest coverage of 54.3x,95.0,0,1.0
+PIDILITIND,pro,P03_DEBT_FREE,Company is almost debt free.,91.5,0,1.0
+PIDILITIND,pro,P09_HEALTHY_PAYOUT,Company has been maintaining a healthy dividend payout of 44.3%,81.0,0,1.0
+PIDILITIND,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 1.22x profit over 5 years,72.7,0,0.0
+PIDILITIND,pro,P02_HIGH_ROCE,Company has a healthy return on capital employed (ROCE) of 26.9%,62.7,0,1.0
+PIDILITIND,con,R04_DATA_GAP,No significant weakness identified; monitor valuation,61.0,0,0.0
+PNB,pro,P01_ROE_TRACK_RECORD,Company has a good return on equity (ROE) track record: 3 Years ROE 44.0%,95.0,0,1.0
+PNB,pro,P04_REVENUE_GROWTH,Company has delivered good sales growth of 15.9% CAGR over last 5 years,62.1,0,1.0
+PNB,con,R02_SECTOR_WEAKNESS,Below the sector median on net profit margin (sector percentile 22),66.7,0,-1.0
+POWERGRID,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 2.31x profit over 5 years,95.0,0,0.0
+POWERGRID,pro,P08_HIGH_MARGIN,Company has a high net profit margin of 34.0%,92.6,0,1.0
+POWERGRID,pro,P06_FCF_POSITIVE_5Y,Company has generated positive free cash flow in each of the last 5 years,84.5,0,1.0
+POWERGRID,pro,P12_CONSISTENT_GROWTH,Company has grown sales in each of the last 5 years,82.8,0,0.0
+POWERGRID,pro,P09_HEALTHY_PAYOUT,Company has been maintaining a healthy dividend payout of 65.0%,81.0,0,1.0
+POWERGRID,con,R02_SECTOR_WEAKNESS,Below the sector median on 5-year sales growth (sector percentile 21),66.7,0,0.0
+RECLTD,pro,P12_CONSISTENT_GROWTH,Company has grown sales in each of the last 5 years,82.8,0,0.0
+RECLTD,pro,P09_HEALTHY_PAYOUT,Company has been maintaining a healthy dividend payout of 30.0%,81.0,0,1.0
+RECLTD,con,R02_SECTOR_WEAKNESS,Below the sector median on 5-year sales growth (sector percentile 23),66.5,0,0.0
+RELIANCE,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 1.61x profit over 5 years,95.0,0,0.0
+RELIANCE,con,C09_LOW_PAYOUT,Dividend payout has been low at 9.3% of profits over last 3 years,77.5,0,-1.0
+RELIANCE,con,C01_LOW_ROE,Company has a low return on equity of 9.7% over last 3 years,61.2,0,-1.0
+SBILIFE,pro,P04_REVENUE_GROWTH,Company has delivered good sales growth of 24.2% CAGR over last 5 years,81.5,1,1.0
+SBILIFE,con,C09_LOW_PAYOUT,Dividend payout has been low at 14.0% of profits over last 3 years,77.5,1,-1.0
+SBIN,pro,P05_PROFIT_GROWTH,Company has delivered good profit growth of 83.4% CAGR over last 5 years,95.0,0,1.0
+SBIN,pro,P12_CONSISTENT_GROWTH,Company has grown sales in each of the last 5 years,82.8,0,0.0
+SBIN,con,R02_SECTOR_WEAKNESS,Below the sector median on 5-year sales growth (sector percentile 14),68.3,0,0.0
+SHREECEM,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 1.82x profit over 5 years,95.0,0,0.0
+SHREECEM,pro,P12_CONSISTENT_GROWTH,Company has grown sales in each of the last 5 years,82.8,0,0.0
+SHREECEM,pro,P10_STRONG_INTEREST_COVER,Company comfortably services its debt: interest coverage of 19.8x,77.2,0,1.0
+SHREECEM,con,C01_LOW_ROE,Company has a low return on equity of 9.5% over last 3 years,61.9,0,-1.0
+SHRIRAMFIN,pro,P12_CONSISTENT_GROWTH,Company has grown sales in each of the last 5 years,82.8,0,0.0
+SHRIRAMFIN,pro,P04_REVENUE_GROWTH,Company has delivered good sales growth of 18.6% CAGR over last 5 years,68.3,0,1.0
+SHRIRAMFIN,pro,P05_PROFIT_GROWTH,Company has delivered good profit growth of 23.5% CAGR over last 5 years,66.1,0,1.0
+SHRIRAMFIN,con,R02_SECTOR_WEAKNESS,Below the sector median on return on equity (sector percentile 45),61.9,0,-1.0
+SIEMENS,pro,P10_STRONG_INTEREST_COVER,Company comfortably services its debt: interest coverage of 67.2x,95.0,0,1.0
+SIEMENS,pro,P03_DEBT_FREE,Company is almost debt free.,91.5,0,1.0
+SIEMENS,pro,P11_MARGIN_EXPANSION,Operating margin has expanded by 3.0 points over the last 3 years,65.6,0,0.0
+SIEMENS,con,R04_DATA_GAP,No significant weakness identified; monitor valuation,61.0,0,0.0
+SUNPHARMA,pro,P10_STRONG_INTEREST_COVER,Company comfortably services its debt: interest coverage of 58.3x,95.0,0,1.0
+SUNPHARMA,pro,P12_CONSISTENT_GROWTH,Company has grown sales in each of the last 5 years,82.8,0,0.0
+SUNPHARMA,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 1.39x profit over 5 years,82.6,0,0.0
+SUNPHARMA,pro,P09_HEALTHY_PAYOUT,Company has been maintaining a healthy dividend payout of 46.7%,81.0,0,1.0
+SUNPHARMA,pro,P05_PROFIT_GROWTH,Company has delivered good profit growth of 24.5% CAGR over last 5 years,67.9,0,1.0
+SUNPHARMA,con,R02_SECTOR_WEAKNESS,Below the sector median on return on equity (sector percentile 43),62.4,0,-1.0
+TATACONSUM,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 1.55x profit over 5 years,92.0,0,0.0
+TATACONSUM,pro,P10_STRONG_INTEREST_COVER,Company comfortably services its debt: interest coverage of 25.3x,86.8,0,1.0
+TATACONSUM,pro,P06_FCF_POSITIVE_5Y,Company has generated positive free cash flow in each of the last 5 years,84.5,0,1.0
+TATACONSUM,pro,P12_CONSISTENT_GROWTH,Company has grown sales in each of the last 5 years,82.8,0,0.0
+TATACONSUM,pro,P09_HEALTHY_PAYOUT,Company has been maintaining a healthy dividend payout of 63.0%,81.0,0,1.0
+TATACONSUM,con,C01_LOW_ROE,Company has a low return on equity of 7.5% over last 3 years,68.9,0,-1.0
+TATAMOTORS,pro,R01_SECTOR_STRENGTH,Above the sector median on return on equity (sector percentile 100),71.0,0,1.0
+TATAMOTORS,con,C09_LOW_PAYOUT,Dividend payout has been low at 13.0% of profits over last 3 years,77.5,0,-1.0
+TATAMOTORS,con,C01_LOW_ROE,Company has a low return on equity of 6.0% over last 3 years,74.0,0,-1.0
+TATAPOWER,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 3.24x profit over 5 years,95.0,0,0.0
+TATAPOWER,pro,P04_REVENUE_GROWTH,Company has delivered good sales growth of 15.5% CAGR over last 5 years,61.2,0,1.0
+TATAPOWER,con,C12_OTHER_INCOME_DEPENDENCE,Earnings depend on other income: 60% of pre-tax profit,71.4,0,0.0
+TATASTEEL,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 2.78x profit over 5 years,95.0,0,0.0
+TATASTEEL,pro,P06_FCF_POSITIVE_5Y,Company has generated positive free cash flow in each of the last 5 years,84.5,0,1.0
+TATASTEEL,con,C07_PROFIT_DECLINE,Company reported a net loss in the latest year,89.8,0,-1.0
+TATASTEEL,con,C03_LOW_INTEREST_COVER,Company has a low interest coverage ratio of 2.2x,71.7,0,-1.0
+TCS,pro,P01_ROE_TRACK_RECORD,Company has a good return on equity (ROE) track record: 3 Years ROE 47.0%,95.0,1,1.0
+TCS,pro,P02_HIGH_ROCE,Company has a healthy return on capital employed (ROCE) of 60.2%,95.0,1,1.0
+TCS,pro,P10_STRONG_INTEREST_COVER,Company comfortably services its debt: interest coverage of 87.1x,95.0,1,1.0
+TCS,pro,P06_FCF_POSITIVE_5Y,Company has generated positive free cash flow in each of the last 5 years,84.5,1,1.0
+TCS,pro,P12_CONSISTENT_GROWTH,Company has grown sales in each of the last 5 years,82.8,1,0.0
+TCS,con,R02_SECTOR_WEAKNESS,Below the sector median on 5-year sales growth (sector percentile 40),63.0,1,0.0
+TECHM,pro,P06_FCF_POSITIVE_5Y,Company has generated positive free cash flow in each of the last 5 years,84.5,0,1.0
+TECHM,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 1.40x profit over 5 years,83.6,0,0.0
+TECHM,pro,P10_STRONG_INTEREST_COVER,Company comfortably services its debt: interest coverage of 13.9x,66.8,0,1.0
+TECHM,con,C10_PAYOUT_EXCEEDS_PROFIT,Dividend payout of 150% exceeds the profit earned,86.2,0,0.0
+TECHM,con,C07_PROFIT_DECLINE,Profit has declined at -11.0% CAGR over the last 5 years,85.6,0,-1.0
+TECHM,con,C08_LOW_MARGIN,Company has a low net profit margin of 4.6%,62.7,0,-1.0
+TITAN,pro,P12_CONSISTENT_GROWTH,Company has grown sales in each of the last 5 years,82.8,0,0.0
+TITAN,pro,P01_ROE_TRACK_RECORD,Company has a good return on equity (ROE) track record: 3 Years ROE 29.5%,76.6,0,1.0
+TITAN,pro,P04_REVENUE_GROWTH,Company has delivered good sales growth of 20.9% CAGR over last 5 years,73.8,0,1.0
+TITAN,pro,P11_MARGIN_EXPANSION,Operating margin has expanded by 2.4 points over the last 3 years,62.3,0,0.0
+TITAN,pro,P05_PROFIT_GROWTH,Company has delivered good profit growth of 20.3% CAGR over last 5 years,61.0,0,1.0
+TITAN,con,R02_SECTOR_WEAKNESS,Below the sector median on leverage (D/E) (sector percentile 15),67.9,0,-1.0
+TORNTPHARM,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 1.82x profit over 5 years,95.0,0,0.0
+TORNTPHARM,pro,P06_FCF_POSITIVE_5Y,Company has generated positive free cash flow in each of the last 5 years,84.5,0,1.0
+TORNTPHARM,pro,P12_CONSISTENT_GROWTH,Company has grown sales in each of the last 5 years,82.8,0,0.0
+TORNTPHARM,pro,P05_PROFIT_GROWTH,Company has delivered good profit growth of 30.6% CAGR over last 5 years,78.5,0,1.0
+TORNTPHARM,con,R02_SECTOR_WEAKNESS,Below the sector median on 5-year sales growth (sector percentile 14),68.1,0,0.0
+TRENT,pro,P04_REVENUE_GROWTH,Company has delivered good sales growth of 36.3% CAGR over last 5 years,95.0,0,1.0
+TRENT,pro,P05_PROFIT_GROWTH,Company has delivered good profit growth of 73.1% CAGR over last 5 years,95.0,0,1.0
+TRENT,pro,P11_MARGIN_EXPANSION,Operating margin has expanded by 11.5 points over the last 3 years,95.0,0,0.0
+TRENT,pro,P07_CASH_BACKED_EARNINGS,Earnings are backed by cash: operating cash flow is 1.45x profit over 5 years,86.0,0,0.0
+TRENT,con,C12_OTHER_INCOME_DEPENDENCE,Earnings depend on other income: 51% of pre-tax profit,66.7,0,0.0
+TVSMOTOR,pro,P01_ROE_TRACK_RECORD,Company has a good return on equity (ROE) track record: 3 Years ROE 22.2%,63.9,0,1.0
+TVSMOTOR,pro,P11_MARGIN_EXPANSION,Operating margin has expanded by 2.6 points over the last 3 years,63.3,0,0.0
+TVSMOTOR,con,C05_WEAK_CASH_CONVERSION,Cash conversion is weak: operating cash flow is only -1.13x profit over 5 years,95.0,0,-1.0
+TVSMOTOR,con,C11_DISTRESS_PATTERN,Operating cash flow is negative and operations are being funded through financing (distress pattern),91.5,0,-1.0
+TVSMOTOR,con,C04_NEGATIVE_FCF_3Y,Free cash flow has been negative for 3 years in a row,88.0,0,0.0
+TVSMOTOR,con,C02_HIGH_LEVERAGE,Company has a high debt to equity ratio of 3.8x,76.0,0,1.0
+TVSMOTOR,con,C08_LOW_MARGIN,Company has a low net profit margin of 4.5%,63.2,0,-1.0

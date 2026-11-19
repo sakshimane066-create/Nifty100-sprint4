@@ -1,0 +1,93 @@
+company_id,predicted_sector,actual_sector,match,keyword_hits,no_text
+ABB,Healthcare,Healthcare,1,1,0
+ADANIENSOL,Energy,Energy,1,1,0
+ADANIENT,Energy,Industrials,0,7,0
+ADANIGREEN,Energy,Energy,1,4,0
+ADANIPORTS,Industrials,Industrials,1,3,0
+ADANIPOWER,Energy,Energy,1,1,0
+AMBUJACEM,Materials,Materials,1,5,0
+APOLLOHOSP,Healthcare,Healthcare,1,4,0
+ASIANPAINT,Materials,Materials,1,3,0
+ATGL,Energy,Energy,1,3,0
+AXISBANK,Financials,Financials,1,4,0
+BAJAJ-AUTO,Consumer Discretionary,Consumer Discretionary,1,2,0
+BAJAJFINSV,Financials,Financials,1,5,0
+BAJAJHLDNG,Financials,Financials,1,2,0
+BAJFINANCE,Financials,Financials,1,5,0
+BANKBARODA,Financials,Financials,1,6,0
+BEL,Industrials,Industrials,1,3,0
+BHARTIARTL,Communication Services,Communication Services,1,1,0
+BHEL,Industrials,Industrials,1,3,0
+BOSCHLTD,Industrials,Consumer Discretionary,0,5,0
+BPCL,Energy,Energy,1,4,0
+BRITANNIA,Consumer Staples,Consumer Staples,1,5,0
+CANBK,Financials,Financials,1,4,0
+CHOLAFIN,Financials,Financials,1,6,0
+CIPLA,Healthcare,Healthcare,1,1,0
+COALINDIA,Materials,Materials,1,4,0
+DABUR,Consumer Staples,Consumer Staples,1,3,0
+DIVISLAB,Healthcare,Healthcare,1,2,0
+DLF,Real Estate,Real Estate,1,4,0
+DMART,Consumer Staples,Consumer Discretionary,0,5,0
+DRREDDY,Healthcare,Healthcare,1,6,0
+EICHERMOT,Consumer Discretionary,Consumer Discretionary,1,4,0
+GAIL,Energy,Energy,1,2,0
+GODREJCP,Consumer Staples,Consumer Staples,1,1,0
+GRASIM,Materials,Industrials,0,2,0
+HAL,Industrials,Industrials,1,3,0
+HAVELLS,Industrials,Industrials,1,5,0
+HCLTECH,Information Technology,Information Technology,1,8,0
+HDFCBANK,Financials,Financials,1,6,0
+HDFCLIFE,Financials,Financials,1,3,0
+HEROMOTOCO,Consumer Discretionary,Consumer Discretionary,1,1,0
+HINDALCO,Materials,Materials,1,5,0
+HINDUNILVR,Consumer Staples,Consumer Staples,1,3,0
+ICICIBANK,Financials,Financials,1,4,0
+ICICIGI,Financials,Financials,1,2,0
+ICICIPRULI,Financials,Financials,1,10,0
+INDIGO,Industrials,Consumer Discretionary,0,3,0
+INDUSINDBK,Financials,Financials,1,4,0
+INFY,Information Technology,Information Technology,1,4,0
+IOC,Energy,Energy,1,4,0
+IRCTC,Industrials,Consumer Discretionary,0,3,0
+IRFC,Financials,Financials,1,5,0
+ITC,Consumer Discretionary,Consumer Staples,0,2,0
+JINDALSTEL,Materials,Materials,1,4,0
+JIOFIN,Financials,Financials,1,2,0
+JSWENERGY,Materials,Energy,0,1,0
+JSWSTEEL,Materials,Materials,1,2,0
+KOTAKBANK,Financials,Financials,1,12,0
+LICI,Financials,Financials,1,2,0
+LODHA,Real Estate,Real Estate,1,4,0
+LT,Industrials,Industrials,1,4,0
+LTIM,Information Technology,Information Technology,1,2,0
+M&M,Consumer Discretionary,Consumer Discretionary,1,1,0
+MARUTI,Consumer Discretionary,Consumer Discretionary,1,2,0
+MOTHERSON,Industrials,Consumer Discretionary,0,1,0
+NAUKRI,Real Estate,Communication Services,0,1,0
+NESTLEIND,Consumer Staples,Consumer Staples,1,2,0
+NHPC,Energy,Energy,1,2,0
+NTPC,Energy,Energy,1,2,0
+ONGC,Energy,Energy,1,5,0
+PFC,Financials,Financials,1,3,0
+PIDILITIND,Materials,Materials,1,2,0
+PNB,Financials,Financials,1,3,0
+POWERGRID,Energy,Energy,1,2,0
+RECLTD,,Financials,0,0,1
+RELIANCE,,Energy,0,0,1
+SBILIFE,Financials,Financials,1,3,0
+SBIN,Financials,Financials,1,4,0
+SHREECEM,Materials,Materials,1,4,0
+SHRIRAMFIN,Financials,Financials,1,1,0
+SIEMENS,Industrials,Industrials,1,2,0
+SUNPHARMA,Healthcare,Healthcare,1,5,0
+TATACONSUM,Consumer Staples,Consumer Staples,1,3,0
+TATAMOTORS,Consumer Discretionary,Consumer Discretionary,1,5,0
+TATAPOWER,Energy,Energy,1,4,0
+TATASTEEL,Materials,Materials,1,6,0
+TCS,Information Technology,Information Technology,1,4,0
+TECHM,Information Technology,Information Technology,1,1,0
+TITAN,Consumer Discretionary,Consumer Discretionary,1,2,0
+TORNTPHARM,Healthcare,Healthcare,1,6,0
+TRENT,Consumer Discretionary,Consumer Discretionary,1,4,0
+TVSMOTOR,Consumer Discretionary,Consumer Discretionary,1,1,0

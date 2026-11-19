@@ -1,0 +1,25 @@
+company_id,text,type,sentiment,agrees_with_label
+HDFCBANK,Company is expected to give good quarter,pro,1.0,1
+HDFCBANK,Company has delivered good profit growth of 23.4% CAGR over last 5 years,pro,1.0,1
+HDFCBANK,Company has been maintaining a healthy dividend payout of 22.9%,pro,1.0,1
+HDFCBANK,Company's median sales growth is 16.4% of last 10 years,pro,1.0,1
+SBILIFE,Company is almost debt free.,pro,1.0,1
+SBILIFE,Company is expected to give good quarter,pro,1.0,1
+INFY,Company has a good return on equity (ROE) track record: 3 Years ROE 30.9%,pro,1.0,1
+INFY,Company has been maintaining a healthy dividend payout of 63.3%,pro,1.0,1
+TCS,Company is almost debt free.,pro,1.0,1
+TCS,Company has a good return on equity (ROE) track record: 3 Years ROE 47.4%,pro,1.0,1
+TCS,Company has been maintaining a healthy dividend payout of 66.2%,pro,1.0,1
+HDFCBANK,Stock is trading at 2.76 times its book value,con,0.0,1
+HDFCBANK,Company has low interest coverage ratio.,con,-1.0,1
+HDFCBANK,"Contingent liabilities of Rs.24,09,821 Cr.",con,0.0,1
+HDFCBANK,"Earnings include an other income of Rs.1,55,870 Cr.",con,0.0,1
+SBILIFE,Stock is trading at 9.11 times its book value,con,0.0,1
+SBILIFE,Tax rate seems low,con,-1.0,1
+SBILIFE,Company has a low return on equity of 12.9% over last 3 years.,con,-1.0,1
+SBILIFE,"Earnings include an other income of Rs.1,657 Cr.",con,0.0,1
+SBILIFE,Dividend payout has been low at 14.0% of profits over last 3 years,con,-1.0,1
+INFY,Stock is trading at 9.03 times its book value,con,0.0,1
+INFY,Promoter holding is low: 14.4%,con,-1.0,1
+TCS,Stock is trading at 15.2 times its book value,con,0.0,1
+TCS,The company has delivered a poor sales growth of 10.5% over past five years.,con,0.333,0

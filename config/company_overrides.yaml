@@ -1,0 +1,10 @@
+# Evidence-based fixes for known source-data errors. Every applied override is logged as DQ-19 in validation_failures.csv.
+# Delete an entry to fall back to the raw source value.
+LT:
+  about_company: >-
+    Larsen & Toubro is an Indian multinational conglomerate engaged in engineering, construction, manufacturing,
+    technology services and financial services.
+  # source text was the Wikipedia entry for Lithuania (country code "LT")
+ABB:
+  sector: {broad_sector: Healthcare, sub_sector: Pharmaceuticals}
+  # financials (sales 5,849 Cr, EPS 565) and description are Abbott India, a pharma company; sectors.xlsx had ABB India's sector
